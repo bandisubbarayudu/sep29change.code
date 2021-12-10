@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>               Hello Friends!               </h2>
+<h2>              r.1.నువ్వు తోపు రా Hello Friends!               </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!!     </h3>
 <h4> @Trainers - SATYA / KIRAN / MUNESH      </h4>
 <marquee behavior="alternate">Devops</marquee>
