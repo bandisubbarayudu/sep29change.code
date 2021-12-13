@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>             సుబ్బు గా నువ్వు నిజంగా తోప్ రా               </h2>
+<h2>             subbu nuvvu nijanga thope subbu              </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!!     </h3>
 <h4> @Trainers - SATYA / KIRAN / MUNESH      </h4>
 <marquee behavior="alternate">Devops</marquee>
