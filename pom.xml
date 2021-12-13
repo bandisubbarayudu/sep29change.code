@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>masterసుబ్బులిమిటెడ్</finalName>
+    <finalName>mastersubbu</finalName>
   </build>
 </project>
