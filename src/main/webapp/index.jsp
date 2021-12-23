@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>             akhil nuvvu nijanga thope akhil   hello      </h2>
+<h2>             nuvvu nijanga thope akhil  hi hello      </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!!     </h3>
 <h4> @Trainers - SATYA / KIRAN / MUNESH      </h4>
 <marquee behavior="alternate">Devops</marquee>
